@@ -17,7 +17,7 @@ import time
 import hashlib
 import glob
 
-from hflossk.blueprints import homework, lectures, quizzes
+from prodstud.blueprints import homework, lectures, quizzes
 
 app = Flask(__name__)
 app.template_folder = "templates"
