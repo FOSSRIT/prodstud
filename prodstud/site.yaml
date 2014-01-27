@@ -1,12 +1,12 @@
 course:
-    name: ProdStud
+    name: PRODSTUD
     desc: The RIT Production Studio Course
     place: RIT
     start: 2014-01-27
     end: 2014-05-17
     times: Tues & Thurs 9:30PM - 10:45AM
-    course: 4085.580.03
-    location: Orange Hall (ORN)-1380
+    course: "4085.580.03"
+    location: "Orange Hall (ORN)-1380"
 
 instructor:
     name: Stehpen Jacobs
@@ -16,8 +16,8 @@ instructor:
     coderwall: ""
     twitter: ""
     office:
-        location: 70-2557 & The MAGIC Center - SIH 1680
-        hours: T (70-2557) R (SIH-1680) 1:00-2:30
+        location: "70-2557 & The MAGIC Center - SIH 1680"
+        hours: "T (70-2557) R (SIH-1680) 1:00-2:30"
     links:
         blog: http://gryphonscratches.blogspot.com
         linkedin: http://linkedin.com/in/itprofjacobs
