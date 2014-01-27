@@ -7,7 +7,7 @@
 <div class="row">
     <div class="col-md-4">
         <h2>Elsewhere</h2>
-        <img width="132" height="132" alt="Prof. Decause's avatar" src="${instructor['avatar']}"/>
+        <img width="132" height="132" alt="Prof. Jacobs' avatar" src="${instructor['avatar']}"/>
         <ul class="list-unstyled">
         %for link in instructor['links'].values():
             <li><a href="${link}">${link}</a></li>
