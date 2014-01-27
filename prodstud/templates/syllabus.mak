@@ -84,8 +84,9 @@ the library.</p>
 
 <div class='section'>
 <h3>Assignment Submission Via GitHub</h3>
-<p>A lecture session on this is part of the course and some hands on support
-sessions will be established for those of you who want it.</p>
+<p>A <a target="_blank" href="/hw/firstflight">lecture session</a> on this is
+part of the course and some hands on support sessions will be established for
+those of you who want it.</p>
 </div>
 
 </div>
