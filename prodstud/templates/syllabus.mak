@@ -1,7 +1,7 @@
 <%inherit file="master.mak"/>
 
 <%def name="title()">
-    Syllabus &mdash; The RIT HFOSS Development Course documentation
+    Syllabus &mdash; The RIT Production Studio Course
 </%def>
 
 <%def name="doc_toc()">
@@ -46,7 +46,7 @@ calendar again.  </p>
 
 <div class="section">
 <h3>Required Text:</h3>
-<p><em>Agile Game Development with Scrum</em> by Clinton Keith can be purchased
+<p><a target="_blank" href="http://www.amazon.com/dp/0321618521/ref=rdr_ext_tmb"><em>Agile Game Development with Scrum</em></a> by Clinton Keith can be purchased
 as hard copy or Kindle or rented from Amazon. There is also one hard copy in
 the library.</p>
 </div>
