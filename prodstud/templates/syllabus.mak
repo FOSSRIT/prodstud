@@ -4,6 +4,7 @@
     Syllabus &mdash; The RIT Production Studio Course
 </%def>
 
+<!--
 <%def name="doc_toc()">
   <div class='affix well'>
     <ul class="list-unstyled">
@@ -18,6 +19,7 @@
     </ul>
   </div>
 </%def>
+-->
 
 <div class="jumbotron" id="syllabus">
     <h1>Syllabus</h1>
