@@ -1,19 +1,17 @@
-HFLOSSK
-=======
+PRODSTUD
+========
 
 Wat?
 ----
 This repository is an experiment to use Flask, Mako, and Bootstrap to make a
-website for the Humanitarian Free/Open Source Software Course at RIT. This
-repository is a work in progress (as any FOSS project is), and will be open for
-contributions.
+website for the Production Studio Course at RIT. This repository is a work in
+progress (as any FOSS project is), and will be open for contributions.
 
 The content shown here is a compilation of course materials from 4 previous
-professors, who've run the course 5 separate times. Those profs are:
+professors, who've run the course 6 separate times. Those profs are:
     - Stephen Jacobs
-    - Dave Shein (x2)
     - Ralph Bean
-    - Justin Sherrill
+    - Remy DeCausemaker
 
 
 License
@@ -59,10 +57,10 @@ If you're using a distro like Fedora or Ubuntu, you should try this instead::
 Once you have virtualenv installed, you should be able to run::
 
  $ cd code
- $ git clone git@github.com:YOUR_USERNAME/hflossk.git
- $ virtualenv --no-site-packages -p python2 hflosskenv
- $ . hflosskenv/bin/activate
- $ cd hflossk
+ $ git clone git@github.com:YOUR_USERNAME/prodstud.git
+ $ virtualenv --no-site-packages -p python2 prodstudenv
+ $ . prodstudenv/bin/activate
+ $ cd prodstud
  $ python setup.py develop
 
 On Windows
@@ -70,16 +68,16 @@ On Windows
 
 At the windows command prompt::
 
- $ virtualenv --no-site-packages -p python2 hflosskenv
- $ hflosskenv/Scripts/activate.bat
+ $ virtualenv --no-site-packages -p python2 prodstudenv
+ $ prodstudenv/Scripts/activate.bat
 
 In msysGit or git-bash::
 
- $ git clone git@github.com:YOUR_USERNAME/hflossk.git
+ $ git clone git@github.com:YOUR_USERNAME/prodstud.git
 
 Back in the windows command prompt::
 
- $ cd hflossk
+ $ cd prodstud
  $ python setup.py develop
 
 
