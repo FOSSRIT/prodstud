@@ -176,7 +176,7 @@ forge.
 <div>
     <h2>Patch the Course Project</h2>
     <p>Check out the source repository for this course; it’s hosted at
-    <a class="reference external" href="https://github.com/decause/hflossk">https://github.com/decause/hflossk</a>.</p>
+    <a class="reference external" href="https://github.com/fossrit/prodstud">https://github.com/fossrit/prodstud</a>.</p>
     <p>Inside the repository, we’ll keep an index of all the students in the course and metadata about them (you!).</p>
     <div class="alert alert-success">
         <h3 class="label label-success">Tasks:</h3>
