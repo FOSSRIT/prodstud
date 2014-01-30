@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>${self.title()}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="RIT HFOSS course website" />
+    <meta name="description" content="RIT Production Studio course website" />
     <meta name="author" content="RemyD" />
 
     <!-- Le styles -->
@@ -33,7 +33,7 @@
       </div>
       <div class="navbar-collapse collapse">
         <p class="navbar-text pull-right">
-          Fork me on <a target="_blank" href="http://github.com/decause/hflossk" class="navbar-link">Github</a>
+          Fork me on <a target="_blank" href="http://github.com/fossrit/prodstud" class="navbar-link">Github</a>
         </p>
         <ul class="nav navbar-nav">
           <li><a href="/syllabus">Syllabus</a></li>
