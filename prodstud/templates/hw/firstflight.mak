@@ -205,7 +205,7 @@ forge.
 
             <li>Once you've confirmed your .yaml file matches exactly, commit and push your changes to github, and issue a pull request.</li>
             <li>Once the patch is accepted upstream and pushed to production, this
-            should add your blog feed to the <a href="http://hfoss-fossrit.rhcloud.com/checkblogs">Participants</a> page.)</li>
+            should add your blog feed to the <a href="http://prodstud-igm.rhcloud.com/checkblogs">Participants</a> page.)</li>
         </ul>
     </div>
 </div>
