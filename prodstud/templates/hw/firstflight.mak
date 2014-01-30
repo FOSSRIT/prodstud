@@ -187,7 +187,7 @@ forge.
             <li>Work through this <a
                 href="http://gitimmersion.com/index.html">git tutorial</a> if
             you don’t have any experience with git.</li>
-            <li>Fork <a href="https://github.com/decause/hflossk">the
+            <li>Fork <a href="https://github.com/fossrit/prodstud">the
                 repository</a> (link to <a
             href="http://help.github.com/fork-a-repo/">github help</a> on
         this).</li>
