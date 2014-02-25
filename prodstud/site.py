@@ -86,7 +86,7 @@ def checkblogs():
 
             student_data.extend(contents)
 
-    target = datetime(2014, 2, 23)
+    target = datetime(2014, 2, 02)
     student_posts = {}
     threads = []
     results = []
@@ -112,7 +112,12 @@ def checkblogs():
 
     assignments = []
     target_number = int((datetime.today() - target).total_seconds() /
-                        timedelta(weeks=1).total_seconds() + 1 + len(assignments))
+                        timedelta(weeks=1).total_seconds() + 1 + len(assignments) - 3)
+
+    # That "-3" above is a nasty hack introduced when SJ decided to change when
+    # we started tracking blogs, but I didn't want to force students to change
+    # the 'date posted' of every blog post they've made so far... :(
+    # nastyhacks--
 
     return render_template('blogs.mak', name='mako',
                            student_data=student_data,
