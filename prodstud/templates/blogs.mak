@@ -24,9 +24,11 @@
           </div>
         </div>
         <ul class="cardlist list-unstyled">
+          <!--Slick hack to show names
           % if student.get('name'):
           <li>${student['name']}</li>
           % endif
+          -->
           % for forge_link in student['forges']:
             <li><a target="_blank" href="${forge_link}">${forge_link}</a></li>
           % endfor
